@@ -1,0 +1,58 @@
+---
+title: "Johnson Chen - Data Scientist"
+format:
+  html:
+    css: style.css
+---
+
+# Tingyu (Johnson) Chen
+
+**Aspiring Data Scientist \| Enthusiast Learner**
+
+Email: [johnson.chen.ty\@gmail.com](mailto:johnson.chen.ty@gmail.com) \| GitHub: [JohnsonChen-id](https://github.com/JohnsonChen-id) \| LinkedIn: [johnson-chen-2625b1200](https://www.linkedin.com/in/johnson-chen-2625b1200/) \| Location: Vancouver, BC
+
+Hi! Welcome to my personal website. Here contains some work in progress items that is not ready for resume, and more about me.
+
+## Skills and Competencies
+
+-   Programming: R/Rstudio, Python, Git/GitHub, TypeScript/JavaScript, Java, Julia, HTML, CSS
+-   Data Analysis/Visualization: R/Rstudio, SQL, Quarto
+-   Other Competencies: Statistical Data Analysis, Software Programming, Statistical Modeling, Data Visualization, Version Control, Linux Command, Relational Databases,
+-   Conceptual Understanding: A/B testing,
+
+## Education
+
+**Master of Science: Statistics**\
+University of British Columbia, Sep 2023 - May 2025
+
+-   Relevant Courses: Design and Analysis of Clinical Studies, Generalized Linear Models, Data Analysis, Statistical Inference, Time Series and Forecasting, Statistical Consulting
+
+**Bachelor of Science: Combined Major in Statistics and Computer Science**\
+University of British Columbia, Sep 2019 - May 2023\
+GPA: 86 (4.00/4.33)
+
+-   Recipient of Dean's Honour List - 2019 - 2023
+-   Recipient of Faculty of Science International Student Scholarship - 2022 (\$7500)
+-   Relevant Courses: Machine Learning and Data Mining, Methods for Statistical Learning, Software Engineering, Relational Databases, Probability, Statistical Inference, Algorithm Design and Analysis, Algorithms and Data Structures
+
+## Work Experience
+
+**Associate Consultant**\
+UBC Applied Statistics and Data Science Group, Jan 2024 - Present
+
+**Graduate Teaching Assistant**\
+UBC Department of Statistics, Sep 2023 - Present
+
+**Undergraduate Research Assistant**\
+UBC ISOPRL Lab, Jul 2022 -- Jul 2023
+
+**Artificial Intelligence Analyst**\
+BC Cancer Kelowna, PHSA, May 2022 -- Sep 2022
+
+## Technical Projects
+
+**Video Game Popularity Visualization**\
+Jan 2023 - Apr 2023
+
+**Insight Query Engine Construction With UI**\
+Sep 2021 -- Jan 2022
