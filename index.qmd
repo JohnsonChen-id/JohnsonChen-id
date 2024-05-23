@@ -9,7 +9,7 @@ format:
 
 **Aspiring Data Scientist \| Enthusiast Learner**
 
-Email: [johnson.chen.ty\@gmail.com](mailto:johnson.chen.ty@gmail.com) \| GitHub: [JohnsonChen-id](https://github.com/JohnsonChen-id) \| LinkedIn: [johnson-chen-2625b1200](https://www.linkedin.com/in/johnson-chen-2625b1200/) \| Location: Vancouver, BC
+LinkedIn: [johnson-chen-2625b1200](https://www.linkedin.com/in/johnson-chen-2625b1200/) \| Location: Vancouver, BC
 
 Hi! Welcome to my personal website. Here contains some work in progress items that is not ready for resume, and more about me.
 
@@ -37,11 +37,25 @@ GPA: 86 (4.00/4.33)
 
 ## Work Experience
 
+**Research Assistant - Algorithm**
+
+UBC HydroGeoScience For Watershed Management Laboratory, May 2024 - Present
+
 **Associate Consultant**\
 UBC Applied Statistics and Data Science Group, Jan 2024 - Present
 
 **Graduate Teaching Assistant**\
 UBC Department of Statistics, Sep 2023 - Present
+
+-   Methods for Statistical Learning
+
+-   Introduction to Data Science
+
+-   Elementary Statistics for Applications
+
+-   Statistical Inference for Data Science
+
+-   Introduction to Software Engineering
 
 **Undergraduate Research Assistant**\
 UBC ISOPRL Lab, Jul 2022 -- Jul 2023
@@ -50,6 +64,10 @@ UBC ISOPRL Lab, Jul 2022 -- Jul 2023
 BC Cancer Kelowna, PHSA, May 2022 -- Sep 2022
 
 ## Technical Projects
+
+**Various Statistical Consulting Projects**
+
+Jan 2024 - Apr 2024
 
 **Video Game Popularity Visualization**\
 Jan 2023 - Apr 2023
